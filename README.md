@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Abhibhard/LeetCode/tree/master/0039-combination-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhibhard/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/Abhibhard/LeetCode/tree/master/3886-sum-of-sortable-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Abhibhard/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
